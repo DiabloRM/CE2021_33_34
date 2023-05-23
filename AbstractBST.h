@@ -1,5 +1,7 @@
 #ifndef AbstractBST_h
 #define AbstractBST_h
+#include <iostream>
+using namespace std;
 
 class AbstractBST
 {
