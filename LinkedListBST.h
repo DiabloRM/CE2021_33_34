@@ -13,4 +13,9 @@ public:
     Node(int data, Node *leftChild, Node *rightChild) : data(data), leftChild(leftChild), rightChild(rightChild) {}
 };
 
-class LinkedList
+class LinkedList : public AbstractBST
+{
+public:
+    Node *root;
+    // hwegdhwdwgdwd
+};
